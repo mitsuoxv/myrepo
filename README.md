@@ -7,4 +7,3 @@ Third line via ssh
 5th line
 6th line from Rstudio
 
-add new line from Home Linux PC
